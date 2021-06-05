@@ -1,14 +1,32 @@
-# lotus_works
+# Lotus Works
 
-lotus_works is a brand new and very simple operating system working on arm and mips arch, just for fun !
+Lotus Works is a simple embedded OS that is made from scratch. It supports ARM and MIPS, contains
+thread management, message, semaphore, and so on.
 
-arm:
+## ARM:
 
-1.skyeye simulator
-2.s3c2440 board
+1. Skyeye simulator:
 
-mips:
+![opps](./pic/simulator.jpg)
 
-1.vmips simulator
+2. S3C2440 board:
 
+![opps](./pic/s3c2440.jpg)
+![opps](./pic/first_run_on_s3c2440.jpg)
+
+## MIPS:
+
+1. vMIPS simulator:
+
+![opps](./pic/vmips.jpg)
+
+## Services:
+
+1. Thread Management:
+
+![opps](./pic/task_manage.jpg)
+
+2. Message queue:
+
+![opps](./pic/msg.jpg)
 
